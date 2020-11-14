@@ -9,5 +9,4 @@ class ApplicationController < Sinatra::Base
   	erb :index
   end
   
-  Dog.new
 end
